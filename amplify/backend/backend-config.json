@@ -4,5 +4,12 @@
 			"service": "S3AndCloudFront",
 			"providerPlugin": "awscloudformation"
 		}
+	},
+	"auth": {
+		"amplifypwa2a6e1537": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
 	}
 }
