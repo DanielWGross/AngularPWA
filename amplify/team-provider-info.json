@@ -9,6 +9,15 @@
             "UnauthRoleName": "amp-pwa-dwg-dev-20190728191111-unauthRole",
             "StackName": "amp-pwa-dwg-dev-20190728191111",
             "StackId": "arn:aws:cloudformation:us-east-1:292423774902:stack/amp-pwa-dwg-dev-20190728191111/fd791720-b18c-11e9-bb52-124d1eab42ba"
+        },
+        "categories": {
+            "auth": {
+                "amppwadwgc82ca9e9": {
+                    "googleAppIdUserPool": "1031707969806-2fugkgeips54difspquvotj33c9d9bjl.apps.googleusercontent.com",
+                    "googleAppSecretUserPool": "ltl8nC5GGdfVvbS9NVjja_tu",
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"1031707969806-2fugkgeips54difspquvotj33c9d9bjl.apps.googleusercontent.com\",\"client_secret\":\"ltl8nC5GGdfVvbS9NVjja_tu\"}]"
+                }
+            }
         }
     }
 }
