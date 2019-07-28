@@ -1,23 +1,14 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "amplifypwa-dev-20190728071148-authRole",
-            "UnauthRoleArn": "arn:aws:iam::292423774902:role/amplifypwa-dev-20190728071148-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::292423774902:role/amplifypwa-dev-20190728071148-authRole",
+            "AuthRoleName": "amp-pwa-dwg-dev-20190728191111-authRole",
+            "UnauthRoleArn": "arn:aws:iam::292423774902:role/amp-pwa-dwg-dev-20190728191111-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::292423774902:role/amp-pwa-dwg-dev-20190728191111-authRole",
             "Region": "us-east-1",
-            "DeploymentBucketName": "amplifypwa-dev-20190728071148-deployment",
-            "UnauthRoleName": "amplifypwa-dev-20190728071148-unauthRole",
-            "StackName": "amplifypwa-dev-20190728071148",
-            "StackId": "arn:aws:cloudformation:us-east-1:292423774902:stack/amplifypwa-dev-20190728071148/7e6cf9b0-b128-11e9-ba2c-12713880e578"
-        },
-        "categories": {
-            "auth": {
-                "amplifypwa2a6e1537": {
-                    "googleAppIdUserPool": "1031707969806-g8vl5k9jajbvo64gp95n1r71q7qmvmm4.apps.googleusercontent.com",
-                    "googleAppSecretUserPool": "bRd5_dOXol7ivgj8ADFzuQsn",
-                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"1031707969806-g8vl5k9jajbvo64gp95n1r71q7qmvmm4.apps.googleusercontent.com\",\"client_secret\":\"bRd5_dOXol7ivgj8ADFzuQsn\"}]"
-                }
-            }
+            "DeploymentBucketName": "amp-pwa-dwg-dev-20190728191111-deployment",
+            "UnauthRoleName": "amp-pwa-dwg-dev-20190728191111-unauthRole",
+            "StackName": "amp-pwa-dwg-dev-20190728191111",
+            "StackId": "arn:aws:cloudformation:us-east-1:292423774902:stack/amp-pwa-dwg-dev-20190728191111/fd791720-b18c-11e9-bb52-124d1eab42ba"
         }
     }
 }
