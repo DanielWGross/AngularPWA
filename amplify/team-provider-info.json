@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifypwa-dev-20190728071148-authRole",
+            "UnauthRoleArn": "arn:aws:iam::292423774902:role/amplifypwa-dev-20190728071148-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::292423774902:role/amplifypwa-dev-20190728071148-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplifypwa-dev-20190728071148-deployment",
+            "UnauthRoleName": "amplifypwa-dev-20190728071148-unauthRole",
+            "StackName": "amplifypwa-dev-20190728071148",
+            "StackId": "arn:aws:cloudformation:us-east-1:292423774902:stack/amplifypwa-dev-20190728071148/7e6cf9b0-b128-11e9-ba2c-12713880e578"
+        }
+    }
+}
