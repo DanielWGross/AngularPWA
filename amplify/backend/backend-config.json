@@ -11,5 +11,11 @@
 			"providerPlugin": "awscloudformation",
 			"dependsOn": []
 		}
+	},
+	"storage": {
+		"s3d3cb5570": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
 	}
 }
